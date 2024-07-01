@@ -1,0 +1,57 @@
+[
+    {
+      "id": "1",
+      "name": "Sydney Opera House",
+      "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Escape to the ultimate tropical paradise retreat with pristine beaches, lush greenery, and luxurious accommodations.",
+      "rating": 4.8,
+      "price": "150",
+      "duration": "3",
+      "location": "Sydney",
+      "category": "Beaches"
+    },
+    {
+      "id": "2",
+      "name": "Great Ocean Road",
+      "image": "https://images.unsplash.com/photo-1512273222628-4daea6e55abb?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Experience the breathtaking beauty of the Alps from your cozy chalet, surrounded by snow-capped peaks and charming villages.",
+      "rating": 4.5,
+      "price": "120",
+      "duration": "4",
+      "location": "Melbourne",
+      "category": "Mountains"
+    },
+    {
+      "id": "3",
+      "name": "Phillip Island",
+      "image": "https://images.unsplash.com/photo-1546436836-07a91091f160?q=80&w=3548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Immerse yourself in the vibrant energy of the city with bustling streets, iconic landmarks, and endless cultural experiences.",
+      "rating": 4.7,
+      "price": "140",
+      "duration": "2",
+      "location": "Melbourne",
+      "category": "Cities"
+    },
+    {
+      "id": "4",
+      "name": "Twelve Apostles",
+      "image": "https://plus.unsplash.com/premium_photo-1668917805105-2d5d9e49af87?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Find serenity in the heart of nature with towering trees, hidden waterfalls, and enchanting wildlife in this magical forest retreat.",
+      "rating": 4.6,
+      "price": "180",
+      "duration": "5",
+      "location": "Melbourne",
+      "category": "Forests"
+    },
+    {
+      "id": "5",
+      "name": "Adventure Park",
+      "image": "https://images.unsplash.com/photo-1535927583620-7940e95a5a05?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFrZSx0cmFucXVpbHx8fHx8fDE3MTEwMzI1MjA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+      "description": "Relax and rejuvenate by the tranquil lakeside, surrounded by stunning scenery and peaceful serenity.",
+      "rating": 4.9,
+      "price": "120",
+      "duration": "3",
+      "location": "Geelong",
+      "category": "Lakes"
+    }
+]
