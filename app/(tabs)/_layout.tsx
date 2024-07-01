@@ -33,7 +33,7 @@ export default function Layout() {
           tabBarIcon: ({ color }) => (
             <View
               style={{
-                backgroundColor: Colors.bgColor,
+                backgroundColor: Colors.primaryColor,
                 paddingHorizontal: 16,
                 paddingVertical: 12,
                 borderRadius: 10,
