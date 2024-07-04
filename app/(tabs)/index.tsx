@@ -6,7 +6,7 @@ import {
   TouchableOpacity,
   View,
 } from "react-native";
-import React, { useState } from "react";
+import React, { useState } from "native";
 import { Stack } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import Colors from "@/constant/Colors";
